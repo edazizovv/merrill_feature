@@ -1,11 +1,23 @@
-# Summary
-* ServiceLine
-* Class: modelling
+# merrill_feature
 
-This repo contains some feature engineering tools.
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
 
-## Components:
-* ...
+Standard feature engineering package
 
-## TODO:
-* ...
+## STATUS:
+
+On hold
+
+## MIRO
+
+<a target="_blank" href="enter miro link">
+    Miro
+</a>
+
+## AZURE
+
+<a target="_blank" href="enter azure link">
+    Azure
+</a>
